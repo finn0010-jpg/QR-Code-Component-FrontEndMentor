@@ -1,0 +1,8 @@
+body {
+    font-family: Outfit;
+}
+
+.qr=code-box {
+    display: flex;
+    justify-content: center;
+}
